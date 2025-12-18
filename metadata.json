@@ -1,0 +1,8 @@
+{
+  "name": "Final Snapnfix",
+  "description": "An AI-powered campus issue reporting platform bridging students and maintenance teams with a focus on sustainability.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
